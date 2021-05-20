@@ -1,7 +1,6 @@
 package objects;
 
 public class Menu {
-    //comentario
     private String nombre;
     private String descripcion;
     private int precio;
