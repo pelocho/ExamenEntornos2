@@ -32,6 +32,7 @@ public class Menu {
     public int getPrecio() {
         return precio;
     }
+    //comentario
 
     public void setPrecio(int precio) {
         this.precio = precio;
